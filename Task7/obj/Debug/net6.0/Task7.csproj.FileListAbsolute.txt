@@ -1,0 +1,14 @@
+D:\work-place\sharp projects\Assignment\Task1\Task7\bin\Debug\net6.0\Task7.exe
+D:\work-place\sharp projects\Assignment\Task1\Task7\bin\Debug\net6.0\Task7.deps.json
+D:\work-place\sharp projects\Assignment\Task1\Task7\bin\Debug\net6.0\Task7.runtimeconfig.json
+D:\work-place\sharp projects\Assignment\Task1\Task7\bin\Debug\net6.0\Task7.dll
+D:\work-place\sharp projects\Assignment\Task1\Task7\bin\Debug\net6.0\Task7.pdb
+D:\work-place\sharp projects\Assignment\Task1\Task7\obj\Debug\net6.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+D:\work-place\sharp projects\Assignment\Task1\Task7\obj\Debug\net6.0\Task7.AssemblyInfoInputs.cache
+D:\work-place\sharp projects\Assignment\Task1\Task7\obj\Debug\net6.0\Task7.AssemblyInfo.cs
+D:\work-place\sharp projects\Assignment\Task1\Task7\obj\Debug\net6.0\Task7.csproj.CoreCompileInputs.cache
+D:\work-place\sharp projects\Assignment\Task1\Task7\obj\Debug\net6.0\Task7.dll
+D:\work-place\sharp projects\Assignment\Task1\Task7\obj\Debug\net6.0\refint\Task7.dll
+D:\work-place\sharp projects\Assignment\Task1\Task7\obj\Debug\net6.0\Task7.pdb
+D:\work-place\sharp projects\Assignment\Task1\Task7\obj\Debug\net6.0\Task7.genruntimeconfig.cache
+D:\work-place\sharp projects\Assignment\Task1\Task7\obj\Debug\net6.0\ref\Task7.dll
